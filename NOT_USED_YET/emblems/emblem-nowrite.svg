@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M11.37 18.27L41.37 3.27L41.37 28.27L11.37 43.27z"/>
+	</g>
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#7c0000;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M23.08 14.16L29.43 10.99L35.04 13.68L35.04 24.44L30.28 31.96L23.80 35.2L18.17 32.51L18.17 22.2z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M25.21 17.96L28.61 16.33L32.02 17.96L32.02 24.48L28.61 29.38L25.21 31.01L21.41 28.92L21.79 22.85z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#7c0000;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.04 16.53L31.12 17.53L23.80 30.34L21.41 28.92z"/>
+	</g>
+</g>
+</svg>

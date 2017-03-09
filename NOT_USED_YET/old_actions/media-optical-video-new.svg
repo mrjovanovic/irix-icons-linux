@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3380"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-optical-video-new.svg">
+  <defs
+     id="defs3382" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6811595"
+     inkscape:cx="-4.8211881"
+     inkscape:cy="12.190235"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1360"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="9,38.999997"
+       orientation="30,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="9,8.9999974"
+       orientation="0,30"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,8.9999974"
+       orientation="-30,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39,38.999997"
+       orientation="0,-30"
+       id="guide3270" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3385">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-336,-328.36218)">
+    <g
+       transform="matrix(0.9043122,0,0,0.85554694,-244.72717,-27.220783)"
+       id="layer1-7"
+       inkscape:label="Capa 1"
+       style="fill:#ffffff">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(1.0347346,0,0,1.4723906,652.21033,420.03091)"
+         id="g7456">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="icomoon-ignore" />
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 26,4 H 6 C 2.7,4 0,6.7 0,10 v 12 c 0,3.3 2.7,6 6,6 h 20 c 3.3,0 6,-2.7 6,-6 V 10 C 32,6.7 29.3,4 26,4 z m 4,18 c 0,1.062 -0.418,2.064 -1.177,2.823 C 28.064,25.582 27.062,26 26,26 H 6 C 4.938,26 3.936,25.582 3.177,24.823 2.418,24.064 2,23.061 2,22 V 10 C 2,8.938 2.418,7.936 3.177,7.177 3.936,6.418 4.938,6 6,6 h 20 c 1.062,0 2.064,0.418 2.823,1.177 C 29.582,7.936 30,8.938 30,10 V 22 z M 12,24 22,16 12,8 z"
+           id="path7448" />
+      </g>
+      <g
+         transform="translate(480.29674,-595.46731)"
+         id="layer1-19"
+         inkscape:label="Capa 1"
+         style="fill:#ffffff" />
+      <g
+         inkscape:label="Capa 2"
+         id="layer2"
+         transform="translate(570.54308,410.49639)"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

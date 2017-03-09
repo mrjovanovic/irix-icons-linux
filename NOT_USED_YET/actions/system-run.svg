@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Rubber Band Part" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M26.00 22L26.00 19L38.00 14L38.00 17z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M38.00 17L38.00 14L76.00 14L76.00 17z"/>
+	</g>
+	<g id="Tiny Generic Executable" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.40 26.8L27.92 20.56L27.14 19.78L26.36 19.39L25.58 18.22L25.19 17.44L24.80 16.66L24.80 15.1L40.40 7.3L40.40 8.86L40.79 10.03L41.18 10.42L41.96 11.59L42.35 11.98L43.52 12.76L56.00 19z"/>
+	</g>
+	<g id="Slingshot" style="fill-rule:nonzero;clip-rule:nonzero;fill:#a8a8a8;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.00 75L58.00 56L54.00 58L50.00 58L45.00 56L43.00 54.5L41.00 52L46.00 50L52.00 47.5L73.00 37L75.00 35L76.00 32.5L76.00 14L82.00 11L88.00 14L88.00 33L87.50 36L87.00 38.5L86.50 40.5L85.00 42L82.00 44L70.00 50L70.00 75L64.00 78z"/>
+	</g>
+	<g id="Second Part of Slingshot" style="fill-rule:nonzero;clip-rule:nonzero;fill:#a8a8a8;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M41.00 52L40.00 48L40.00 32L46.00 29L52.00 32L52.00 47.5L46.00 50z"/>
+	</g>
+	<g id="Tiny Piece Fills in a Hole" style="fill-rule:nonzero;clip-rule:nonzero;fill:#a8a8a8;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.00 56L54.00 58L50.00 58L45.00 56L53.00 53z"/>
+	</g>
+	<g id="Slingshot Outlines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.00 75L58.00 56L54.00 58L50.00 58L45.00 56L43.00 54.5L41.00 52L40.00 48L40.00 32L46.00 29L52.00 32L52.00 47.5L73.00 37L75.00 35L76.00 32.5L76.00 14L82.00 11L88.00 14L88.00 33L87.50 36L87.00 38.5L86.50 40.5L85.00 42L82.00 44L70.00 50L70.00 75L64.00 78z"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 32L46.00 35L52.00 32"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M46.00 35L46.00 50L46.50 53L47.00 56L50.00 58L54.00 58L58.00 56L64.00 53"/>
+	</g>
+	<g id="Path_9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M52.00 47.5L52.00 51.5L53.00 53L55.00 53L56.00 51.5L79.00 40L81.00 37.5L82.00 35.5L82.00 17L76.00 14"/>
+	</g>
+	<g id="Path_10" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M82.00 17L88.00 14"/>
+	</g>
+	<g id="Last Rubber Band Piece" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 35L26.00 22L26.00 19L40.00 32z"/>
+	</g>
+</g>
+</svg>

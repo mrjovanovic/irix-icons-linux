@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M32.50 100L22.50 95L68.50 72L77.50 77z"/>
+	</g>
+	<g id="Icon" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M27.50 87L27.50 22L72.50 0L72.50 65z"/>
+	</g>
+	<g id="Solid Poly " style="fill-rule:nonzero;clip-rule:nonzero;fill:#3862b4;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.83 75.12L28.79 27.49L35.60 32.25L35.60 36.34L35.60 40.42L36.28 44.51L36.96 47.23L38.32 51.25L41.04 54.04L43.09 57.17L45.13 60.85L52.77 63.09z"/>
+	</g>
+	<g id="Line 1 Drop Over Poly" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.47 76.51L71.00 55.4"/>
+	</g>
+	<g id="Line 2" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.47 27.49L36.96 24.08"/>
+	</g>
+	<g id="Line 4" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#388c88;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.38 17.27L71.00 10.46"/>
+	</g>
+	<g id="Line 5" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.38 20L65.55 15.91"/>
+	</g>
+	<g id="Line 6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M65.55 17.27L71.00 14.55"/>
+	</g>
+	<g id="Line 7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.74 22.72L64.19 20"/>
+	</g>
+	<g id="Line 8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#0000f8;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.38 25.44L64.19 22.04"/>
+	</g>
+	<g id="Line 9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#388c88;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.28 20.68L71.00 19.32"/>
+	</g>
+	<g id="Line 10" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.74 26.8L66.91 22.72"/>
+	</g>
+	<g id="Line 11" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.28 41.1L71.00 39.74"/>
+	</g>
+	<g id="Line 12" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M66.91 46.55L71.00 44.51"/>
+	</g>
+	<g id="Line 13" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M65.55 51.31L71.00 48.59"/>
+	</g>
+	<g id="Line 14" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M64.19 55.94L71.00 52.54"/>
+	</g>
+	<g id="Line 15" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M41.04 25.44L47.85 22.04"/>
+	</g>
+	<g id="Line 16" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.32 28.17L49.21 22.72"/>
+	</g>
+	<g id="Line 17" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M42.40 30.89L49.21 27.49"/>
+	</g>
+	<g id="Line 18" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#0000f8;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M41.04 34.97L51.26 29.87"/>
+	</g>
+	<g id="Line 19" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M46.49 33.61L49.21 32.25"/>
+	</g>
+	<g id="Line 20" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.94 39.06L54.66 37.7"/>
+	</g>
+	<g id="Line 21" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.94 40.42L54.66 39.06"/>
+	</g>
+	<g id="Line 22" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.38 37.7L60.11 36.34"/>
+	</g>
+	<g id="Line 23" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#f80000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.94 47.91L53.30 47.23"/>
+	</g>
+	<g id="Line 24" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#f80000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M56.70 45.53L62.83 42.46"/>
+	</g>
+	<g id="Line 25" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#f80000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.57 50.63L62.83 44.51"/>
+	</g>
+	<g id="Line 26" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#c07070;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.94 50.63L62.83 45.19"/>
+	</g>
+	<g id="Line 27" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#883888;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M53.30 52L62.83 47.23"/>
+	</g>
+	<g id="Line 1 Drop Over Poly" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#7070c0;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.00 79.5L70.80 58.6"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M39.00 100L15.00 87L52.00 68.5L76.00 81.5z"/>
+	</g>
+	<g id="Always Draw Back Three Pages" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M15.00 76.85L18.60 18.61L55.65 0.0799999999999983L51.32 59.15z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.83 82.92L18.60 18.61L55.65 0.0799999999999983L63.57 64.5z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.83 82.92L29.10 23.65L65.42 5.43000000000001L63.57 64.5z"/>
+	</g>
+	<g id="Top Two Pages When Closed" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.98 89.71L29.10 23.65L65.42 5.43000000000001L76.12 70.78z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.98 89.71L38.98 28.69L76.12 10.37L76.12 70.78z"/>
+	</g>
+	<g id="Line 6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.21 68.1L70.57 56.99"/>
+	</g>
+	<g id="Line 7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.41 75.2L70.67 64.5"/>
+	</g>
+	<g id="C" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M66.00 46L65.90 46L64.80 49.2L63.00 51.6L59.50 53.8L57.00 54.3L54.40 54L51.90 51.6L50.50 47.4L50.30 43.3L50.50 39.5L51.90 34.2L53.90 30.9L56.90 28.2L59.70 27.3L62.00 27.4L64.20 28.5L66.00 31.6"/>
+	</g>
+	<g id="C Extra Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M53.90 51.6L52.50 47.4L52.30 43.3L52.50 39.5L53.90 34.2"/>
+	</g>
+	<g id="Dot" style="fill-rule:nonzero;clip-rule:nonzero;fill:#000000;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.00 60L47.00 58L49.00 58L49.00 60z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Body of Opened Envelope" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.28 45.7L31.74 38.3L60.13 9.92L88.51 9.92L90.98 14.85L90.98 54.34L30.51 85.19z"/>
+	</g>
+	<g id="Slip of Paper Within" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.38 56.81L39.15 35.83L79.87 14.85L79.87 35.83z"/>
+	</g>
+	<g id="Left Envelope Fold" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M30.51 85.19L30.51 45.7L58.89 45.7z"/>
+	</g>
+	<g id="Center Envelope Fold" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M90.98 54.34L62.59 43.24L90.98 14.85z"/>
+	</g>
+	<g id="Right Envelope Fold" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M30.51 85.19L58.89 45.7L62.59 43.24L90.98 54.34z"/>
+	</g>
+</g>
+</svg>

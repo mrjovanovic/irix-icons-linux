@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Path_3" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M100.00 5L100.45 3.65000000000001L99.10 2.75L89.70 7.47L92.40 8.81999999999999z"/>
+	</g>
+	<g id="Path_4" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M92.40 8.81999999999999L89.70 7.47L87.45 11.29L91.05 11.29z"/>
+	</g>
+	<g id="Path_5" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M91.05 11.29L87.45 11.29L91.50 12.87z"/>
+	</g>
+	<g id="Path_6" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M91.50 12.87L87.45 11.29L88.35 13.99L91.95 15.79L94.65 14.44z"/>
+	</g>
+	<g id="Path_7" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M94.65 14.44L91.95 15.79L91.05 16.69L95.55 15.79z"/>
+	</g>
+	<g id="Path_8" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M94.65 18.04L95.55 15.79L91.05 16.69L80.77 21.96L83.44 23.8z"/>
+	</g>
+	<g id="Back Network Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M83.44 23.8L80.77 21.96L91.05 16.69L91.95 15.79L91.05 15.34L88.35 13.99L87.45 11.29L89.70 7.47L99.10 2.75L100.45 3.65000000000001L100.00 5L92.40 8.81999999999999L91.05 11.29L91.50 12.87L94.65 14.44L95.55 15.79L94.65 18.04z"/>
+	</g>
+	<g id="Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M65.00 77.5L31.28 60.5L56.14 48.14L90.00 65z"/>
+	</g>
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.43 16.4L45.32 34.98L43.48 34.61L43.47 24.24L44.22 20.29L46.49 15.81z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M67.02 6.59999999999999L77.37 13.35L85.52 19.34L81.09 23.65L75.80 26.64L69.23 29.13L46.49 15.81L49.31 13.88L53.83 10.98L58.95 8.2L64.48 6.19z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.43 16.4L45.05 37.39L43.03 41.26L42.17 45.43L45.45 47.93L66.00 61.42L68.03 61.94L67.14 50.46L66.66 42.8L66.66 37.59L67.35 33.78L69.23 29.13z"/>
+	</g>
+	<g id="Top of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M46.49 15.81L51.48 12.38L56.96 9.09L62.43 6.64L64.48 6.19L67.02 6.59999999999999L73.39 10.6L85.48 18.94"/>
+	</g>
+	<g id="Front of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M67.14 50.46L66.66 42.8L66.66 37.59L67.66 32.05L69.23 29.13L72.26 27.98L77.07 26.16L81.09 23.65L83.48 21.32L85.52 19.34L86.40 21.13L87.15 24.48L87.82 30.2L87.54 36.43L90.09 47.59L90.43 49.16L89.83 50.6L70.10 61.42L68.03 61.94z"/>
+	</g>
+	<g id="Side of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.03 61.94L66.00 61.42L43.26 46.49L42.17 45.43L42.16 44.16L43.72 38.97L43.32 31.71L43.15 25.99L44.44 19.14L46.49 15.81L54.71 21.06L69.23 29.13"/>
+	</g>
+	<g id="Path_6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M87.54 36.43L83.29 43.25L79.63 47.07L74.76 50.38L67.35 53.05L43.72 38.97"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M83.48 21.32L84.89 24.58L85.38 28.26L84.76 29.51L82.29 31.28L78.87 33.2L75.03 34.57L73.55 34.9L73.55 34.9L72.84 34.02L72.26 27.98"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M64.48 55.05L44.49 43.13"/>
+	</g>
+	<g id="Path_9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M83.21 48.96L87.91 45.94L87.91 45.94"/>
+	</g>
+	<g id="Path_10" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.52 30.42L68.52 30.42"/>
+	</g>
+	<g id="Top of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M46.49 15.81L51.48 12.38L56.96 9.09L62.43 6.64L64.48 6.19L67.02 6.59999999999999L73.39 10.6L85.48 18.94"/>
+	</g>
+	<g id="Side of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.03 61.94L66.00 61.42L43.26 46.49L42.17 45.43L42.16 44.16L43.72 38.97L43.32 31.71L43.15 25.99L44.44 19.14L46.49 15.81L54.71 21.06L69.23 29.13"/>
+	</g>
+	<g id="Path_13" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M64.48 55.05L44.49 43.13"/>
+	</g>
+	<g id="Path_14" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.52 30.42L68.52 30.42"/>
+	</g>
+	<g id="Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M40.00 100L6.28 83L51.00 60.57L84.86 77.43z"/>
+	</g>
+	<g id="Monitor Stand" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.71 74.18L16.86 68.12L16.86 64.87L19.54 63.6L51.14 54.01L51.14 56.69z"/>
+	</g>
+	<g id="Monitor Stand" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.71 74.18L16.86 68.12L16.86 64.87L19.54 63.6L51.14 56.69L54.81 58.52L54.67 60.78z"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#C0C0C0;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M78.23 13.95L82.00 16.54"/>
+	</g>
+	<g id="Back Network Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M82.00 16.54L78.23 13.95"/>
+	</g>
+	<g id="Monitor Stand" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.71 74.18L16.86 68.12L16.86 64.87L19.54 63.6L51.14 54.01L51.14 56.69L54.81 58.52L54.67 60.78z"/>
+	</g>
+	<g id="Monitor Back" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M12.49 52.6L7.84 45.97L6.85 43.71L6.28 40.61L6.28 26.92L6.85 24.81L8.54 23.4L27.44 13.38L29.42 12.68L31.54 12.68L39.58 12.68z"/>
+	</g>
+	<g id="Monitor Shell" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M22.79 65.3L14.75 61.21L13.48 60.08L12.63 58.38L12.49 56.27L12.63 30.31L12.77 28.19L13.90 26.22L15.74 25.09L40.71 11.97L42.40 11.27L43.95 11.12L45.64 11.55L54.95 16.63L56.79 18.04L57.78 20.01L58.20 22.41L58.06 46.25L57.78 48.65L56.65 50.77L54.81 52.04L29.70 65.3L27.44 66.28L24.62 66.14z"/>
+	</g>
+	<g id="Screen" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.71 58.1L28.71 37.93L29.00 35.81L30.27 34.68L51.99 23.12L53.68 23.26L54.39 25.23L54.39 45.26L53.97 47.38L52.56 48.65L30.97 60.22L29.28 60.22z"/>
+	</g>
+	<g id="Keyboard" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.31 85.19L26.46 78.84L25.19 77.71L24.76 75.88L25.19 74.04L26.60 72.91L59.89 55.42L61.58 54.86L62.99 55.42L74.84 65.44L75.27 66.28L74.70 67.27L41.55 85.05L40.00 85.75L39.01 85.75z"/>
+	</g>
+	<g id="Keyboard Edge" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M29.00 75.31L39.86 84.34L40.14 85.19L39.44 85.61"/>
+	</g>
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M10.50 60.6L8.25 59.48L7.35 59.3L8.03 62.52L8.70 63.98z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M11.85 63.98L11.40 62.18L10.50 60.6L8.70 63.98L8.03 65.26z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M10.95 66.9L11.40 65.78L11.85 63.98L8.03 65.26L0.66 68.77L2.01 71.2z"/>
+	</g>
+	<g id="Path_24" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M7.35 59.3L4.65 57.68L4.20 59.48L4.65 60.38L5.55 61.28L8.03 62.52z"/>
+	</g>
+	<g id="Path_25" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M4.65 57.68L15.00 52.5L16.35 53.18L15.90 54.98L7.35 59.3z"/>
+	</g>
+	<g id="Front Network Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M2.01 71.2L0.66 68.77L8.03 65.26L8.70 63.98L8.03 62.52L5.55 61.28L4.65 60.38L4.20 59.48L4.38 58.58L4.65 57.68L15.00 52.5L16.35 53.18L15.90 54.98L8.25 58.8L7.35 59.3L8.25 59.48L10.50 60.6L11.40 62.18L11.85 63.98L11.40 65.78L10.95 66.9z"/>
+	</g>
+</g>
+</svg>

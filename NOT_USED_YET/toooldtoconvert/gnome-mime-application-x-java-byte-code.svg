@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M39.00 100L15.00 87L52.00 68.5L76.00 81.5z"/>
+	</g>
+	<g id="Always Draw Back Three Pages" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M15.00 76.85L18.60 18.61L55.65 0.0799999999999983L51.32 59.15z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.83 82.92L18.60 18.61L55.65 0.0799999999999983L63.57 64.5z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.83 82.92L29.10 23.65L65.42 5.43000000000001L63.57 64.5z"/>
+	</g>
+	<g id="Top Two Pages When Closed" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.98 89.71L29.10 23.65L65.42 5.43000000000001L76.12 70.78z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.98 89.71L38.98 28.69L76.12 10.37L76.12 70.78z"/>
+	</g>
+	<g id="Line 6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.21 68.1L70.57 56.99"/>
+	</g>
+	<g id="Line 7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.41 75.2L70.67 64.5"/>
+	</g>
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M93.00 86.4L98.00 88.9L98.00 93.9L93.00 96.4L88.00 98.9L78.00 98.9L68.00 98.9L63.00 96.4L58.00 93.9L58.00 88.9L63.00 86.4z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M90.00 81.1L95.00 83.6L95.00 88.6L90.00 91.1L85.00 93.6L75.00 93.6L65.00 93.6L60.00 91.1L55.00 88.6L55.00 83.6L60.00 81.1z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#c0461c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M60.20 68.9L90.20 68.9L90.20 83.9L80.20 88.9L70.20 88.9L60.20 83.9z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:#d05454;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M60.20 68.9L70.20 73.9L80.20 73.9L85.20 71.4L90.20 68.9L85.20 66.4L75.20 66.4L65.20 66.4z"/>
+	</g>
+	<g id="Path_4" style="fill-rule:none;clip-rule:nonzero;fill:#b46238;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M60.20 76.2L55.20 78.7L50.20 76.2L50.20 69.2L55.20 66.4L60.00 69z"/>
+	</g>
+	<g id="Path_5" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M55.20 68.7L60.09 72.41L55.20 76.1L52.60 72.4z"/>
+	</g>
+	<g id="Path_6" style="fill-rule:nonzero;clip-rule:nonzero;fill:#f8fcf8;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M70.00 75L70.00 87L67.60 85.8L67.80 73.6z"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M73.80 47.6L70.20 51L71.20 55L75.00 55.2L76.40 59L75.20 63.2L70.20 71"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M75.80 46.8L72.20 50.2L73.20 54.2L77.00 54.4L78.40 58.2L77.20 62.4L72.20 70.2"/>
+	</g>
+	<g id="Path_9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M85.60 52.6L82.00 56L83.00 60L85.00 61.6L82.60 65.6L81.20 68.2"/>
+	</g>
+	<g id="Path_10" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M87.40 52.2L83.80 55.6L84.80 59.6L86.60 61.6L85.40 64.6L83.20 68.6"/>
+	</g>
+	<g id="Path_11" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M69.91 30.78L63.20 27.6L61.49 28.57L68.20 31.8z"/>
+	</g>
+	<g id="Path_12" style="fill-rule:none;clip-rule:nonzero;fill:#f80000;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.60 60.6L45.60 67.2L51.60 63.8L51.60 57z"/>
+	</g>
+	<g id="Path_13" style="fill-rule:none;clip-rule:nonzero;fill:#f80000;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.80 47L57.80 53.6L63.80 50.2L63.80 43.4z"/>
+	</g>
+	<g id="Path_14" style="fill-rule:none;clip-rule:nonzero;fill:#f80000;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.20 31.8L68.20 38.4L74.20 35L74.20 28.2z"/>
+	</g>
+	<g id="Path_15" style="fill-rule:none;clip-rule:nonzero;fill:#00fcf8;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.60 38.8L47.60 45.4L53.60 42L53.60 35.2z"/>
+	</g>
+	<g id="Path_16" style="fill-rule:none;clip-rule:nonzero;fill:#00fcf8;stroke:#505450;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.80 24L57.80 30.6L63.80 27.2L63.80 20.4z"/>
+	</g>
+	<g id="Path_17" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M59.51 45.98L52.80 42.8L51.09 43.77L57.80 47z"/>
+	</g>
+	<g id="Path_18" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M49.40 44.8L49.40 58L49.08 58.39L48.97 44.82z"/>
+	</g>
+	<g id="Path_19" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M49.80 37.2L57.40 26.6L49.80 37.2L57.60 26.2L57.19 27.32L50.39 37.12z"/>
+	</g>
+</g>
+</svg>

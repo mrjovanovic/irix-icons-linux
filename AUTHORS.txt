@@ -1,0 +1,20 @@
+SGI-IRIX esque linux icon theme
+Made by Norbertas Kremeris 2015
+
+Borrowed art and assets:
+
+Iris icons by andermetalsh @ gnome-look.org
+http://gnome-look.org/content/show.php/Iris++%28fixed%29?content=150069
+
+Irix icon set by darkdoomer @ deviantart.com
+http://darkdoomer.deviantart.com/art/da-motherfuckin-irix-icon-set-179568520
+
+Action icons mostly from Retrofukation by neiio @ deviantart.com
+http://neiio.deviantart.com/art/Retrofukation-8-341557180
+
+Used as reference:
+area.o43 SVG Icon theme by redde @ gnome-look.org
+http://gnome-look.org/content/show.php/area.o43+SVG+Icon+theme?content=101979
+
+Crystal SVG Icons by CrystalforGNOME @ gnome-look.org
+http://gnome-look.org/content/show.php/Crystal+SVG+Icons?content=24758

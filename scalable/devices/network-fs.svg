@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Path_0" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M97.40 29.1L98.75 30L98.30 31.35L87.95 36.53L85.25 35.18z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M87.95 36.53L85.25 35.18L83.45 38.1L83.00 39L86.60 39z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M86.60 39L83.00 39L87.05 40.58z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M87.05 40.58L83.00 39L83.90 41.7L87.50 43.5L90.20 42.15z"/>
+	</g>
+	<g id="Path_4" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M87.50 43.5L90.20 42.15L91.10 43.5L86.60 44.4z"/>
+	</g>
+	<g id="Path_5" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M90.20 45.75L91.10 43.5L86.60 44.4L74.00 50.7L74.00 53.85z"/>
+	</g>
+	<g id="Shadow Under 3 Host Boxes - 2 Pieces" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M14.00 87.5L55.00 67.5L79.00 79.5L38.00 100z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M66.00 86L74.00 90.5L62.00 97L53.00 92.5z"/>
+	</g>
+	<g id="Back Network Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M74.00 53.85L74.00 50.7L86.60 44.4L87.50 43.5L86.60 43.05L83.90 41.7L83.00 39L83.45 38.1L85.25 35.18L97.40 29.1L98.75 30L98.30 31.35L87.95 36.53L86.60 39L87.05 40.58L90.20 42.15L91.10 43.5L90.20 45.75z"/>
+	</g>
+	<g id="Top of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.00 37L44.00 24L55.00 18.5L79.00 31.5z"/>
+	</g>
+	<g id="Front of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.00 37L79.00 31.5L79.00 69.5L68.00 75z"/>
+	</g>
+	<g id="Side of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.00 37L68.00 75L44.00 62.5L44.00 24z"/>
+	</g>
+	<g id="Door Lines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M79.00 33.5L70.00 38.5"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M79.00 41.5L70.00 46.5"/>
+	</g>
+	<g id="Top of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M62.00 49L38.00 36L49.00 30.5L73.00 43.5z"/>
+	</g>
+	<g id="Front of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M62.00 49L73.00 43.5L73.00 81.5L62.00 87z"/>
+	</g>
+	<g id="Side of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M62.00 49L62.00 87L38.00 74.5L38.00 36z"/>
+	</g>
+	<g id="Door Lines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M73.00 45.5L64.00 50.5"/>
+	</g>
+	<g id="Path_12" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M73.00 53.5L64.00 58.5"/>
+	</g>
+	<g id="Top of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.00 52L14.00 39L25.00 33.5L49.00 46.5z"/>
+	</g>
+	<g id="Front of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.00 52L49.00 46.5L49.00 84.5L38.00 90z"/>
+	</g>
+	<g id="Side of Front Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.00 52L38.00 90L14.00 77.5L14.00 39z"/>
+	</g>
+	<g id="Door Lines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M49.00 48.5L40.00 53.5"/>
+	</g>
+	<g id="Path_17" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M49.00 56.5L40.00 61.5"/>
+	</g>
+	<g id="Path_24" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M16.48 77.88L20.30 76.6L19.85 78.4L19.40 79.52L2.75 87.85L0.50 87.4L1.40 85.42z"/>
+	</g>
+	<g id="Path_25" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M17.15 76.6L19.85 74.8L20.30 76.6L16.48 77.88z"/>
+	</g>
+	<g id="Path_26" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M16.70 72.1L18.95 73.23L19.85 74.8L17.15 76.6L16.48 75.14z"/>
+	</g>
+	<g id="Path_27" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M12.65 72.1L13.10 73L14.00 73.9L16.48 75.14L16.70 72.1L15.80 71.92z"/>
+	</g>
+	<g id="Path_28" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M12.65 72.1L12.83 71.2L13.10 70.3L23.45 65.12L24.80 65.8L24.35 67.6L15.80 71.92z"/>
+	</g>
+	<g id="Front Network Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M2.75 87.85L0.50 87.4L1.40 85.42L16.48 77.88L17.15 76.6L16.48 75.14L14.00 73.9L13.10 73L12.65 72.1L12.83 71.2L13.10 70.3L23.45 65.12L24.80 65.8L24.35 67.6L16.70 71.42L15.80 71.92L16.70 72.1L18.95 73.23L19.85 74.8L20.30 76.6L19.85 78.4L19.40 79.52z"/>
+	</g>
+</g>
+</svg>

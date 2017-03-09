@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Path_0" style="fill-rule:none;clip-rule:nonzero;fill:#007e00;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M50.00 30.3L25.00 72.8L49.73 90.43L75.00 47.5z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M60.00 65L80.00 55L83.40 55L85.00 57.5L85.00 67.5L80.00 70L80.00 60L75.00 62.5L75.00 72.5L70.00 75L70.00 65L65.00 67.5L65.00 77.5L60.00 80z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 46.1L40.00 81.1L55.00 38.6L60.00 36.1L40.00 91.1L35.00 93.6L35.00 48.6z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.60 70.1L55.60 67.6L55.60 82.6L50.60 85.1z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.60 64.8L50.60 59.8L55.60 57.3L55.60 62.3z"/>
+	</g>
+</g>
+</svg>

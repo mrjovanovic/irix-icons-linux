@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Pad Back Sheet" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M34.00 69L34.00 18L69.00 0.5L69.00 51.5z"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.00 71L38.00 20L73.00 2.5L73.00 53.5z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M42.00 73L42.00 22L77.00 4.5L77.00 55.5z"/>
+	</g>
+	<g id="Holes in Paper" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M50.00 24L50.00 23L51.00 23L51.00 24z"/>
+	</g>
+	<g id="Path_4" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M60.00 20L60.00 19L61.00 19L61.00 20z"/>
+	</g>
+	<g id="Path_5" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M69.00 15L69.00 14L70.00 14L70.00 15z"/>
+	</g>
+	<g id="Wires Right to Left" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M69.90 12.5L70.80 10.2L70.50 6.59999999999999L68.60 3L65.80 1.09999999999999L61.20 0.299999999999997L59.00 1.7L58.30 3.7"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M61.40 16.5L62.10 14L61.00 9.8L58.70 6L54.90 3.8L50.80 4L48.50 6.5L48.20 9.2"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.50 22.2L51.50 20L51.00 15.7L48.80 12.2L44.90 9.59999999999999L40.50 9.90000000000001L38.80 12L38.50 14.4"/>
+	</g>
+	<g id="Pencil Mark" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M52.00 50L52.00 30"/>
+	</g>
+	<g id="Pencil Body" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M52.00 50L54.95 47.62L59.30 37.7L83.49 11.46L88.24 6.20999999999999L90.95 3.01000000000001L92.59 2.03L94.56 2.19L96.44 3.18000000000001L97.84 5.06L98.08 6.87L97.43 8.75L95.13 11.62L90.79 16.87L65.61 42.95L55.85 48.36z"/>
+	</g>
+	<g id="Bottom of Pencil Shaft" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M65.69 42.95L62.41 43.03L59.46 40.73L59.22 37.7"/>
+	</g>
+	<g id="draw(70.6, 65.6);" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M59.54 40.9L78.98 21.79"/>
+	</g>
+	<g id="Top of Pencil Shaft" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M90.05 16.79L87.83 17.61L86.03 17.28L84.39 16.3L83.57 14.66L83.32 12.94L83.57 11.38"/>
+	</g>
+	<g id="Base of Pencil Eraser" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M94.64 11.62L92.67 12.36L90.70 12.28L88.82 11.21L87.92 9.56999999999999L87.67 7.77L88.16 6.20999999999999"/>
+	</g>
+	<g id="Top of Pencil Eraser" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M97.43 8.67L95.46 9.41L93.41 9.25L91.77 8.26000000000001L90.95 6.62L90.46 4.81999999999999L90.95 3.01000000000001"/>
+	</g>
+</g>
+</svg>

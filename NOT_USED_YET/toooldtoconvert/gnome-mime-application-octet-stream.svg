@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M58.31 86.87L52.05 90.36L45.06 93.74L38.55 96.39L32.65 98.67L29.52 99.64L25.30 100L22.77 99.4L20.96 98.92L20.00 96.63L20.24 94.46L21.45 92.53L24.70 89.52L29.88 85.54L34.82 82.77L42.53 79.04L48.92 76.02L55.06 73.13L62.29 70.12L68.31 67.95L72.29 66.75L75.66 66.51L77.47 66.99L79.28 67.83L80.84 69.16L81.32 70.84L80.84 72.89L79.28 74.46L76.63 76.51L72.77 79.04L68.67 81.57L63.49 84.34z"/>
+	</g>
+	<g id="Icon " style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M43.61 70L37.59 69.04L31.57 66.15L26.14 61.57L22.77 56.27L20.48 50.96L20.12 44.58L20.60 38.92L21.45 33.62L23.13 27.95L25.18 23.01L28.19 18.19L31.33 13.98L34.82 10L38.67 6.15000000000001L43.85 3.01000000000001L49.88 0.359999999999999L56.14 0.120000000000005L62.53 1.20999999999999L68.19 3.86L73.97 8.56L77.47 13.74L79.64 19.16L79.88 25.9L79.52 32.17L78.43 37.71L76.51 43.01L74.82 47.11L71.81 52.77L68.79 56.63L65.06 60.72L60.96 64.58L55.66 68.07L49.52 69.88z"/>
+	</g>
+	<g id="Icon Accent Line 1" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M38.92 54.58L36.99 56.39L35.42 57.83L33.25 59.28L30.84 60.48L28.67 61.33L26.75 61.57"/>
+	</g>
+	<g id="Icon Accent Line 2" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M46.87 14.94L45.18 12.05L42.41 10.12L39.76 9.40000000000001L37.35 9.04000000000001L35.06 9.76000000000001"/>
+	</g>
+	<g id="Icon Accent Line 3" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M77.11 13.74L76.63 15.66L76.02 16.99L75.18 18.56L74.46 19.88L73.25 21.21L72.05 22.29"/>
+	</g>
+	<g id="Icon Accent Line 4" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M64.46 44.34L65.66 46.63L66.51 49.88L66.87 52.17L66.75 55.42L66.14 57.47L64.94 60.24"/>
+	</g>
+</g>
+</svg>

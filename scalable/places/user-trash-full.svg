@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Dumpster Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M48.76 100L21.96 86.6L71.03 62.89L96.18 75.77z"/>
+	</g>
+	<g id="Dumpster Wheel 1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M95.77 65.05L96.39 66.39L96.49 67.94L96.08 69.28L95.46 70.41L94.12 71.55L92.58 72.17L91.23 72.37L90.00 72.17L88.76 71.65L87.73 70.72L87.01 69.69z"/>
+	</g>
+	<g id="Dumpster Wheel 2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M52.89 86.91L53.40 88.56L53.30 90.31L52.58 92.17L51.55 93.3L50.51 94.02L49.28 94.54L47.94 94.54L46.39 94.33L45.26 93.71L44.33 92.78L43.50 91.44L43.30 90L43.30 88.45L43.81 87.11z"/>
+	</g>
+	<g id="Dumpster Wheel 3" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M31.44 81.03L30.21 82.47L28.76 83.4L27.11 83.71L25.05 83.3L23.50 82.37L22.47 81.34L21.75 79.69L22.06 77.94L22.58 76.6z"/>
+	</g>
+	<g id="Dumpster Main Box	" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.73 89.69L21.86 76.08L21.86 60.83L21.86 41.75L70.00 18.04L96.18 40.72L96.18 49.9L96.18 65.05z"/>
+	</g>
+	<g id="Dumpster Outlines	" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.73 79.38L47.73 89.69L21.86 76.08L21.86 67.22L21.86 60.83L21.86 41.75L47.73 63.3L47.73 72.68L60.10 66.29"/>
+	</g>
+	<g id="Path_6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.73 63.3L96.18 40.72L96.18 65.05L47.73 89.69"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M96.18 55.88L79.07 64.43"/>
+	</g>
+	<g id="This is the Handle of the Dumpster" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M39.79 71.75L35.67 74.02L27.53 70L27.53 61.55L31.24 59.38L39.79 63.51L35.67 65.67L35.67 69.49z"/>
+	</g>
+	<g id="Extra Outlines for Handle" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M35.67 68.45L35.67 72.99"/>
+	</g>
+	<g id="Path_10" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M27.53 60.52L35.67 64.64"/>
+	</g>
+	<g id="Need Lines across top of Dumpster" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.86 41.75L69.90 18.04L96.18 40.72"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M69.90 18.04L69.90 48.46"/>
+	</g>
+	<g id="New Garbage" style="fill-rule:none;clip-rule:nonzero;fill:#388c88;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.73 63.3L37.11 54.33L39.07 44.23L45.98 42.37L57.01 29.9L81.03 41.65L89.28 42.48z"/>
+	</g>
+	<g id="Icon Totally Open Lid" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.86 59.38L9.18 65.98L4.43 61.03L14.85 55.67L21.86 41.75z"/>
+	</g>
+	<g id="Extra Line on Open Lid" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M9.18 65.98L21.86 41.75"/>
+	</g>
+	<g id="Icon in the Garbage" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.05 48.35L54.95 8.66L77.01 32.27L72.16 51.34L68.86 49.59L64.02 51.96L52.89 47.22z"/>
+	</g>
+</g>
+</svg>

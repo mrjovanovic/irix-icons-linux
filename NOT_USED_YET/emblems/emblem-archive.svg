@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Door Frame Outline" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M16.00 36.3L16.00 12L40.00 0L40.00 24.3z"/>
+	</g>
+	<g id="Door Handle - Closed" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M17.70 20L17.80 18.6L19.20 17.7L21.30 19.2L21.30 27.8L20.90 29.2L19.40 29.7L18.50 28.3L18.50 20.8z"/>
+	</g>
+	<g id="Combination Lock" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M34.00 19.5L30.40 22.4L25.80 20.1L25.70 14.6L30.00 11.4L34.70 14.5L34.00 19.4"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M32.20 20.9L28.80 19L30.00 14.8L34.20 16.2z"/>
+	</g>
+</g>
+</svg>

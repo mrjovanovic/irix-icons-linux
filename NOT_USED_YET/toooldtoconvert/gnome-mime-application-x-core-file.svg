@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Car Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M47.88 100L9.50 80.75L60.00 55.5L98.00 74.37z"/>
+	</g>
+	<g id="Left Wheel" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.38 68.25L60.00 72.75L59.38 77.25L57.38 80.87L54.25 83.12L50.25 84.62L45.88 84.5L42.88 82.62L39.25 79.75L37.75 76.5L35.00 72.25L33.88 68.37L34.88 64.37L38.63 61.62L43.00 59.12L48.63 58.62L52.25 61L54.63 63z"/>
+	</g>
+	<g id="Lines on Left Wheel" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.38 70.25L51.63 72.62L51.63 76.62L50.00 80.25L47.63 81.25L44.38 80.37L42.00 78L39.88 74.62L38.25 70.5L37.63 67.12L39.38 63.12"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M42.00 69.37L44.50 71.5L45.50 75.37L42.38 74.12L41.63 71.5L42.63 69.75"/>
+	</g>
+	<g id="Path_4" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M42.00 69.37L45.63 69.75L47.75 71.75L48.50 74.87L45.50 75.37"/>
+	</g>
+	<g id="Right Wheel" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M87.75 52.87L89.88 55.87L90.63 59.5L90.75 62.5L89.88 65L88.13 67.37L86.00 68.37L82.63 69L80.13 68.5L77.88 67.37L74.75 64.5L73.25 60.75z"/>
+	</g>
+	<g id="Path_6" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M82.50 57L83.50 58.87L84.38 61.5L84.75 65.37L82.50 68.12L80.25 68.5"/>
+	</g>
+	<g id="Path_7" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M84.13 60.75L83.50 63.37L82.50 65.62L80.88 65.75L78.75 65L76.88 63.12L76.13 58.37"/>
+	</g>
+	<g id="Upper Pink Body of Car" style="fill-rule:none;clip-rule:nonzero;fill:#c07070;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M13.75 82.5L10.25 80.25L7.00 77.87L4.00 75.12L2.00 72L2.25 70L0.62 67.75L0.00 65.62L0.00 63.12L0.62 61.5L2.38 61.12L1.62 59.25L1.50 57L3.12 56.25L3.12 53.75L4.00 51.87L5.75 53L6.50 49.75L8.00 46.87L10.50 44.5L13.13 43.12L15.88 43L21.63 38.87L28.00 35.5L33.13 33L39.75 30.75L47.88 28.87L54.25 29L56.25 29.62L56.88 30.75L68.63 36.25L67.50 39.25z"/>
+	</g>
+	<g id="Lower Pink Part of Car" style="fill-rule:none;clip-rule:nonzero;fill:#c07070;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M13.63 82.5L13.50 81.25L13.88 79.87L14.88 79L12.50 77.75L10.75 75.62L11.75 73.5L13.63 72.37L16.88 71.87L17.50 70.62L18.13 69L20.88 68.75L38.50 57.62L39.13 55.87L39.38 54.37L40.00 53.25L45.38 48.87L52.25 44.25L57.88 41.37L58.25 39.12L68.13 37.62L71.25 32.5L75.25 28.87L80.00 25.12L84.63 22.12L89.38 20L92.63 19.25L94.38 19.87L94.50 21.5L93.88 23.75L93.25 28L92.63 39.75L93.75 40.25L96.00 42.12L96.88 44.5L96.50 46.87L92.25 50.75L86.13 55.12L80.38 58.5L65.88 65.87L58.38 68.37L54.25 69.75L48.75 70.12L48.50 66L46.25 64L42.25 63.62L37.63 65.12L35.63 67.75L35.50 70.5L37.38 73.5L36.38 75L38.13 78L35.75 80.75L32.75 82.5L30.25 83.12L28.13 82.12L27.38 84.5L25.13 86.12L22.13 87.62z"/>
+	</g>
+	<g id="License Plate" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M83.25 42L81.88 45.37L81.38 49.62L78.75 50.25L75.63 51.62L71.75 54.75L71.88 50.5L72.38 46L74.00 43z"/>
+	</g>
+	<g id="Left Taillight" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M60.00 56.75L58.63 56.5L57.88 55.12L57.63 54.12L57.38 52.62L57.50 51L58.63 49.37L60.75 49.5L61.75 51.75L61.88 53.87L62.13 55L61.63 56z"/>
+	</g>
+	<g id="Right Taillight" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M91.88 37.5L90.88 36.37L91.00 34L92.75 32.37L94.00 34.25L94.13 37z"/>
+	</g>
+	<g id="Bumper Outline" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M76.50 60.5L65.63 64.37L57.00 66L54.88 63.5L54.88 61L55.00 59.5L56.75 59.12L61.75 59.12L70.38 57L78.50 53.37L86.38 48.37L90.50 44.5L93.25 40L95.88 42.25L96.63 44.62L96.38 46.75L92.63 50.62L84.13 56.25z"/>
+	</g>
+	<g id="Trunk Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M89.75 43.25L85.75 39.37L80.25 37.5L74.00 37.12L68.88 37.75"/>
+	</g>
+	<g id="Defines White Back Window" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.25 39.12L58.50 35.75L58.13 34.12L57.13 33.87L57.00 30.75L68.63 36.25L68.13 37.62z"/>
+	</g>
+	<g id="Path_16" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M57.13 33.87L53.75 35.37L49.88 38.12L45.13 40.87L40.63 44.62L36.13 49.25L32.88 52.75L29.63 50L27.00 47.75L24.63 45L23.88 44.12L24.75 43L28.38 40.12L33.88 37L40.00 34L46.00 31.62L52.00 30.5L57.00 30.75z"/>
+	</g>
+	<g id="Outline of Rear Window" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M58.63 49L58.25 39.12L58.50 35.75L58.13 34.12L57.13 33.87L53.75 35.37L49.88 38.12L45.13 40.87L40.63 44.62L36.13 49.25L32.88 52.75L29.63 50L27.00 47.75L24.63 45L23.88 44.12L24.75 43L28.38 40.12L33.88 37L40.00 34L46.00 31.62L52.00 30.5L57.00 30.75L68.63 36.25L68.13 37.62L58.25 39.12"/>
+	</g>
+	<g id="Side Window " style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.75 55.87L23.00 59.25L19.00 62.75L13.50 57.37L12.38 55.37L11.75 52.75L12.50 50.12L15.38 48.12L19.25 47.75L22.25 48.87L24.25 50z"/>
+	</g>
+	<g id="Crunch Outlines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M36.00 74.75L34.63 75.12L31.63 74.87L27.13 72.62L22.50 69.62L17.75 66.75L14.00 62.62L11.13 57.75L10.00 52.62L10.38 48L12.25 45.5L15.75 43"/>
+	</g>
+	<g id="Path_20" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M37.25 77.12L35.63 78.37L32.00 79.37L29.00 78.75L26.00 77.62L20.25 74.87L15.13 70.12L10.63 65.37L7.00 59.87L6.00 55.5L5.75 53.12"/>
+	</g>
+	<g id="Path_21" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M8.50 68.75L6.62 67.25L5.25 65.75L3.75 63.87L2.38 61.25"/>
+	</g>
+	<g id="Path_22" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.88 81.75L17.50 80L12.63 77.75L6.62 74.25L2.50 70"/>
+	</g>
+	<g id="Reeking Wreck Line" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M13.50 32.87L14.00 25.75L14.75 24.5L18.13 20.25L10.88 20L14.13 15.5L3.88 14.25L15.38 10.12"/>
+	</g>
+</g>
+</svg>

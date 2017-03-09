@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M40.00 100L0.00 80L60.00 50L100.00 70z"/>
+	</g>
+	<g id="Table Left Leg" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 86L8.00 70L8.00 65L21.00 63L21.00 45L27.00 51L27.00 66L40.00 80z"/>
+	</g>
+	<g id="Table Right Leg" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M92.00 60L76.00 52L76.00 36L92.00 54z"/>
+	</g>
+	<g id="Table Top" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 70L0.00 30L60.00 0L100.00 40z"/>
+	</g>
+	<g id="Left Paper on Table" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M42.50 61.5L19.00 38L41.00 27L64.50 50.5z"/>
+	</g>
+	<g id="Right Paper on Table" style="fill-rule:none;clip-rule:nonzero;fill:#f8fcf8;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M55.00 50.5L30.00 25L60.00 10.5L85.00 36z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Lower Arrow Head" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M9.90 22.01L9.90 12.91L11.54 9.09999999999999L13.81 7.55L16.90 7.09L24.63 9.64L24.63 14.55z"/>
+	</g>
+	<g id="Path_12" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M17.18 28.38L2.62 25.65L24.63 14.55L31.91 11.01z"/>
+	</g>
+	<g id="Lower Arrow Head Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M17.18 28.38L2.62 25.65L9.90 22.01L9.90 12.91L11.54 9.09999999999999L13.81 7.55L16.90 7.09L24.63 9.64L24.63 14.55L31.91 11.01z"/>
+	</g>
+	<g id="Arrow Shaft" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M33.09 16.28L17.63 8L15.63 7.45999999999999L13.54 7.5L27.09 0.730000000000004L30.00 0L32.27 0.730000000000004L47.64 8.09z"/>
+	</g>
+	<g id="Upper Arrow Head" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M54.47 5.37L54.47 19.92L25.82 19.92L33.09 16.28L47.64 8.09z"/>
+	</g>
+	<g id="Arrow Shaft and Head Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M33.09 16.28L17.63 8L15.63 7.45999999999999L13.54 7.5L27.09 0.730000000000004L30.00 0L32.27 0.730000000000004L47.64 8.09L54.47 5.37L54.47 19.92L25.82 19.92z"/>
+	</g>
+</g>
+</svg>

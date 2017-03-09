@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg8517"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/sibrand/Dropbox/webprojects/Arista/icon-scart-4-96.png"
+   inkscape:export-xdpi="90.17"
+   inkscape:export-ydpi="90.17">
+  <defs
+     id="defs8519">
+    <linearGradient
+       id="linearGradient4176-2-7">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4178-5-1" />
+      <stop
+         style="stop-color:#545454;stop-opacity:1;"
+         offset="1"
+         id="stop4180-4-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4215-5-5">
+      <stop
+         style="stop-color:#141414;stop-opacity:1;"
+         offset="0"
+         id="stop4217-9-9" />
+      <stop
+         id="stop4225-4-7"
+         offset="0.550052"
+         style="stop-color:#343434;stop-opacity:1;" />
+      <stop
+         id="stop4223-6-7"
+         offset="0.550052"
+         style="stop-color:#3f3f3f;stop-opacity:1;" />
+      <stop
+         style="stop-color:#767676;stop-opacity:1;"
+         offset="1"
+         id="stop4219-9-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4227-2-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4229-4-3" />
+      <stop
+         style="stop-color:#b8b8b8;stop-opacity:1;"
+         offset="1"
+         id="stop4231-7-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4503-5-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4505-4-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4507-8-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3884-2-9">
+      <stop
+         style="stop-color:#6c6c6c;stop-opacity:1;"
+         offset="0"
+         id="stop3886-8-4" />
+      <stop
+         id="stop5304-9-8"
+         offset="0.4625"
+         style="stop-color:#777777;stop-opacity:1;" />
+      <stop
+         id="stop5302-3-1"
+         offset="0.925"
+         style="stop-color:#ececec;stop-opacity:1;" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="1"
+         id="stop3888-6-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4076-7-9">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop4078-6-3" />
+      <stop
+         id="stop4080-9"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:0.6964;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4080-7-0" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4144-8">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.575"
+         id="feGaussianBlur4146-8" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4163-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4165-0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4167-9" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4809-6"
+       x="-0.4627"
+       width="1.925"
+       y="-0.116"
+       height="1.232">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.605534"
+         id="feGaussianBlur4811-3" />
+    </filter>
+    <linearGradient
+       id="linearGradient4604-8">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4606-5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4608-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11566-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.6964;"
+         offset="0"
+         id="stop11570-1" />
+      <stop
+         id="stop11572-5"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4813-9"
+       x="-0.03801"
+       width="1.076"
+       y="-0.1424"
+       height="1.285">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.856327"
+         id="feGaussianBlur4815-8" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4050-8">
+      <stop
+         style="stop-color:#232323;stop-opacity:1"
+         offset="0"
+         id="stop4052-1" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1"
+         offset="1"
+         id="stop4054-0" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4118-3">
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient4122-4);fill-opacity:1;stroke:none"
+         id="path4120-0"
+         sodipodi:cx="464.8"
+         sodipodi:cy="252"
+         sodipodi:rx="9.75"
+         sodipodi:ry="9.75"
+         d="m 474.5,252 a 9.75,9.75 0 1 1 -19.5,0 9.75,9.75 0 1 1 19.5,0 z"
+         transform="translate(-2.3,-6.1)" />
+    </mask>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4076-7-9"
+       id="radialGradient4122-4"
+       gradientUnits="userSpaceOnUse"
+       cx="464.8"
+       cy="252"
+       fx="464.8"
+       fy="252"
+       r="9.75" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4076-4">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.7875"
+         id="feGaussianBlur4078-4" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5253-4">
+      <path
+         style="fill:url(#linearGradient5257);fill-opacity:1;stroke:none"
+         d="m 172,296 200,0 c 5.5,0 8.7,4.6 10,10 l 17,70 c 1.3,5.4 -4.5,10 -10,10 l -230,0 c -5.5,0 -11,-4.5 -10,-10 l 13,-70 c 1,-5.5 4.5,-10 10,-10 z"
+         id="path5255-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/rect4583.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5259-6">
+      <path
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/rect4583.png"
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path5261-3"
+         d="m 172,296 200,0 c 5.5,0 8.7,4.6 10,10 l 17,70 c 1.3,5.4 -4.5,10 -10,10 l -230,0 c -5.5,0 -11,-4.5 -10,-10 l 13,-70 c 1,-5.5 4.5,-10 10,-10 z"
+         style="fill:url(#linearGradient5263-1);fill-opacity:1;stroke:none" />
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4271-7"
+       id="linearGradient5263-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.9968,39,92.4)"
+       x1="189.4"
+       y1="299.6"
+       x2="189.4"
+       y2="211.1" />
+    <linearGradient
+       id="linearGradient4271-7">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4273-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4275-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3761-6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3763-2" />
+      <stop
+         style="stop-color:#3b3b3b;stop-opacity:1;"
+         offset="1"
+         id="stop3765-1" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5137-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.564"
+         id="feGaussianBlur5139-8" />
+    </filter>
+    <linearGradient
+       id="linearGradient3870-5">
+      <stop
+         id="stop3872-7"
+         offset="0"
+         style="stop-color:#1d1d1d;stop-opacity:1" />
+      <stop
+         id="stop3874-4"
+         offset="1"
+         style="stop-color:#6c6c6c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4519-1">
+      <stop
+         id="stop4521-8"
+         offset="0"
+         style="stop-color:#494949;stop-opacity:1;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:1;"
+         offset="0.237397"
+         id="stop4523-5" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="0.607172"
+         id="stop4525-9" />
+      <stop
+         style="stop-color:#616161;stop-opacity:1;"
+         offset="0.74509"
+         id="stop4527-7" />
+      <stop
+         id="stop4529-5"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4511-3">
+      <stop
+         style="stop-color:#bcbcbc;stop-opacity:1;"
+         offset="0"
+         id="stop4513-8" />
+      <stop
+         style="stop-color:#434343;stop-opacity:1;"
+         offset="1"
+         id="stop4515-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4519-1"
+       id="linearGradient4184"
+       gradientUnits="userSpaceOnUse"
+       x1="124"
+       y1="165.6"
+       x2="161.7"
+       y2="171.3" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4511-3"
+       id="radialGradient4186"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.408,0.269,-0.0776,-0.4062,356.5,169.3)"
+       cx="137.5"
+       cy="142.9"
+       fx="137.5"
+       fy="142.9"
+       r="19.75" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4519-1"
+       id="linearGradient4188"
+       gradientUnits="userSpaceOnUse"
+       x1="124"
+       y1="165.6"
+       x2="164.7"
+       y2="158.8" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4511-3"
+       id="radialGradient4190"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.408,0.269,-0.0776,-0.4062,356.5,169.3)"
+       cx="137.5"
+       cy="142.9"
+       fx="137.5"
+       fy="142.9"
+       r="19.75" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4519-1"
+       id="linearGradient4192"
+       gradientUnits="userSpaceOnUse"
+       x1="124"
+       y1="165.6"
+       x2="163.9"
+       y2="165.6" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4511-3"
+       id="radialGradient4194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.408,0.269,-0.0776,-0.4062,356.5,169.3)"
+       cx="137.5"
+       cy="142.9"
+       fx="137.5"
+       fy="142.9"
+       r="19.75" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3870-5"
+       id="linearGradient4196"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.2676,-89.29,370.9)"
+       x1="189.4"
+       y1="178"
+       x2="189.4"
+       y2="441.8" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4604-8"
+       id="linearGradient4198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.2685,0,0,0.2953,36.96,366)"
+       x1="369.9"
+       y1="259.1"
+       x2="344.7"
+       y2="265.9" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3761-6"
+       id="linearGradient4200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.2685,-89.29,374.1)"
+       x1="210"
+       y1="347.7"
+       x2="210"
+       y2="244" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4076-7-9"
+       id="radialGradient4202"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.777,0.0092,-2.581e-5,0.0907,87.72,666.8)"
+       cx="42.47"
+       cy="478.4"
+       fx="42.47"
+       fy="478.4"
+       r="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4050-8"
+       id="linearGradient4204"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.2685,-96.59,380.8)"
+       x1="261.3"
+       y1="256.5"
+       x2="261.3"
+       y2="248" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4163-5"
+       id="linearGradient4206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2476,0,0,0.3404,-84.39,357.3)"
+       x1="220.4"
+       y1="305.9"
+       x2="179.3"
+       y2="194.4" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4163-5"
+       id="radialGradient4208"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.075,-96.59,418.7)"
+       cx="257"
+       cy="211.6"
+       fx="257"
+       fy="211.6"
+       r="105.8" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4050-8"
+       id="radialGradient4210"
+       gradientUnits="userSpaceOnUse"
+       cx="457"
+       cy="251.5"
+       fx="457"
+       fy="251.5"
+       r="10.75" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11566-1"
+       id="radialGradient4212"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0433,-0.0749,0.2252,0.13,7.26,644.5)"
+       cx="47.3"
+       cy="650.4"
+       fx="47.3"
+       fy="650.4"
+       r="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4604-8"
+       id="linearGradient4214"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.2979,-89.29,365.3)"
+       x1="369.9"
+       y1="259.1"
+       x2="344.7"
+       y2="265.9" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4163-5"
+       id="radialGradient4216"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.467,9.499e-5,0,6.38,-54.13,-721)"
+       cx="152"
+       cy="224.1"
+       fx="152"
+       fy="224.1"
+       r="11.37" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4076-7-9"
+       id="radialGradient4218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.961,0,0.0062,0.3212,82.18,513)"
+       cx="32.13"
+       cy="654.7"
+       fx="32.13"
+       fy="654.7"
+       r="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3884-2-9"
+       id="linearGradient4220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2749,0,0,0.2632,-90.99,260.6)"
+       x1="149.6"
+       y1="751.2"
+       x2="341.2"
+       y2="751.2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4503-5-5"
+       id="radialGradient4222"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5314,2.732e-6,-9.372e-7,0.1688,-151.3,326.8)"
+       cx="234.8"
+       cy="816.6"
+       fx="234.8"
+       fy="816.6"
+       r="106" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4215-5-5"
+       id="linearGradient4224"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2705,0,0,0.2781,-89.99,249.6)"
+       x1="245"
+       y1="761.4"
+       x2="245"
+       y2="817" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227-2-7"
+       id="radialGradient4226"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2705,-2.579e-7,0,0.2615,-89.99,263.2)"
+       cx="229.5"
+       cy="757.1"
+       fx="229.5"
+       fy="757.1"
+       r="106.2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4176-2-7"
+       id="linearGradient4228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2685,0,0,0.2685,-85.99,236.7)"
+       x1="220"
+       y1="855.9"
+       x2="220"
+       y2="873" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9e9e9e"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.655"
+     inkscape:cx="56.18"
+     inkscape:cy="46.723388"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4144"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     gridtolerance="13"
+     objecttolerance="8"
+     inkscape:window-width="1310"
+     inkscape:window-height="744"
+     inkscape:window-x="56"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10019"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       empcolor="#59646e"
+       empopacity="0.251"
+       color="#a1a1a1"
+       opacity="0.3098" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8522">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG"
+     transform="translate(156,-172)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.5,-508.1)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="scartplug"
+     transform="translate(0,-308)">
+    <g
+       id="g4144"
+       transform="translate(74.75,-94.69)">
+      <path
+         style="opacity:0.25;fill:#151515;fill-opacity:1;stroke:none;filter:url(#filter5137-7)"
+         d="m 169,684.8 210,0 c 5.5,0 9.4,4.5 10,10 l 10,95 c 0.6,5.5 -4.5,10 -10,10 l -230,0 c -5.5,0 -10.6,-4.5 -10,-10 l 10,-95 c 0.6,-5.5 4.5,-10 10,-10 z"
+         id="path3377"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17"
+         transform="matrix(0.2685,0,0,0.2685,-100.8,256)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient4184);fill-opacity:1;stroke:url(#radialGradient4186);stroke-opacity:1"
+         id="path3379"
+         sodipodi:cx="142.2"
+         sodipodi:cy="165.2"
+         sodipodi:rx="19.25"
+         sodipodi:ry="19.25"
+         d="m 161.45,165.2 c 0,10.63148 -8.61852,19.25 -19.25,19.25 -10.63148,0 -19.25,-8.61852 -19.25,-19.25 0,-10.63148 8.61852,-19.25 19.25,-19.25 10.63148,0 19.25,8.61852 19.25,19.25 z"
+         transform="matrix(0.2685,0,0,0.2685,-79.29,382.3)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         transform="matrix(0.2685,0,0,0.2685,-49.39,382.3)"
+         d="m 161.45,165.2 c 0,10.63148 -8.61852,19.25 -19.25,19.25 -10.63148,0 -19.25,-8.61852 -19.25,-19.25 0,-10.63148 8.61852,-19.25 19.25,-19.25 10.63148,0 19.25,8.61852 19.25,19.25 z"
+         sodipodi:ry="19.25"
+         sodipodi:rx="19.25"
+         sodipodi:cy="165.2"
+         sodipodi:cx="142.2"
+         id="path3381"
+         style="fill:url(#linearGradient4188);fill-opacity:1;stroke:url(#radialGradient4190);stroke-opacity:1"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         inkscape:export-ydpi="90.17"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient4192);fill-opacity:1;stroke:url(#radialGradient4194);stroke-opacity:1"
+         id="path3383"
+         sodipodi:cx="142.2"
+         sodipodi:cy="165.2"
+         sodipodi:rx="19.25"
+         sodipodi:ry="19.25"
+         d="m 161.45,165.2 c 0,10.63148 -8.61852,19.25 -19.25,19.25 -10.63148,0 -19.25,-8.61852 -19.25,-19.25 0,-10.63148 8.61852,-19.25 19.25,-19.25 10.63148,0 19.25,8.61852 19.25,19.25 z"
+         transform="matrix(0.2685,0,0,0.2685,-64.29,382.3)" />
+      <path
+         style="fill:url(#linearGradient4196);fill-opacity:1;stroke:none"
+         d="m -53.59,425.6 53.6985,0 c 1.4005,0 2.3005,1.2 2.6005,2.7 l 4.5,19 c 1,4.3 -1.5,6.3 -5.1,6.1 l -59.099,-3.1 c 0.1,0 -2.8,0 -2.7,-0.6 l 3.4,-21.4 c 0.2,-1.5 1.2,-2.7 2.7,-2.7 z"
+         id="path3385"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssscsss"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         transform="matrix(0.2109,0,0,0.2685,-84.99,263)"
+         inkscape:export-ydpi="90.17"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path3552"
+         d="m 169,684.8 210,0 c 5.5,0 9.4,4.5 10,10 l 10,95 c 0.6,5.5 -4.5,10 -10,10 l -230,0 c -5.5,0 -10.6,-4.5 -10,-10 l 10,-95 c 0.6,-5.5 4.5,-10 10,-10 z"
+         style="opacity:0.25;fill:#151515;fill-opacity:1;stroke:none;filter:url(#filter5137-7)" />
+      <path
+         style="fill:url(#linearGradient4198);fill-opacity:1;stroke:none"
+         d="m -53.59,426.2 c -1.7,0.7 -2.2,1.4 -2.5,3 l -3.6,20.7 c 1.1,-3.6 10.2,-5.3 9.7,-9.3 l -1.6,-11.4 c -0.6,-2.6 0.5,-2.8 -2,-3 z"
+         id="path3387"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccc"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path3389"
+         d="m -57.09,447.9 61.699,0 c 1.5,0 3,1.2 2.7,2.5 l -3.1,15.9 c -0.3,1.4 -1.2,2.6 -2.7,2.6 l -56.999,0 c -1.5,0 -2.5,-1.2 -2.7,-2.6 l -1.6,-15.9 c -0.1,-1.3 1.2,-2.5 2.7,-2.5 z"
+         style="fill:url(#linearGradient4200);fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3393"
+         d="m 156.5,719 230,0 c 5.5,0 10,4.5 10,10 l 0,45 c 0,5.5 -4.5,10 -10,10 l -230,0 c -5.5,0 -10,-4.5 -10,-10 l 0,-45 c 0,-5.5 4.5,-10 10,-10 z"
+         style="fill:none;stroke:url(#radialGradient4202);stroke-width:2;stroke-miterlimit:4;filter:url(#filter4076-4)"
+         transform="matrix(-0.2617,0,0,-0.2685,42.46,660.7)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:url(#linearGradient4204);fill-opacity:1;stroke:none"
+         id="rect3395"
+         width="62.77"
+         height="1.342"
+         x="-57.39"
+         y="447.8"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3397"
+         d="m -17.29,443.2 7.1,1.6 -0.3,1 -7.7,0 z"
+         style="fill:#1db9f1;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3399"
+         d="m -29.89,444.8 7.1,0 0,1 -7.1,0 z"
+         style="fill:#74db30;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#fd3146;fill-opacity:1;stroke:none"
+         d="m -34.89,444.8 -7.5,0 0.2,1 7.7,0 z"
+         id="path3401"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#2657c6;fill-opacity:1;stroke:none"
+         d="m -18.79,426.1 6,0 2.6,18.7 -7.7,0 z"
+         id="path3403"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#49a222;fill-opacity:1;stroke:none"
+         d="m -29.29,426.1 5.9,0 0.6,18.7 -7.1,0 z"
+         id="path3405"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3407"
+         d="m -33.89,426.1 -6,0 -2.6,18.7 7.7,0 z"
+         style="fill:#b91c27;fill-opacity:1;stroke:none" />
+      <path
+         style="opacity:0.1351;fill:url(#linearGradient4206);fill-opacity:1;stroke:url(#radialGradient4208);stroke-width:0.2685;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         clip-path="none"
+         d="m -51.89,426.8 c -1.3,0 -2.2,0.9 -2.4,2.7 l -1.4,11.2 c -0.1,0.7 -0.2,1.2 -0.2,1.7 12.2,-13.5 41.6,-9.7 56.5985,-15 -0.5,-0.5 -1.1,-0.6 -1.9995,-0.6 l -50.599,0 z"
+         id="path3409"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient4210);fill-opacity:1;stroke:none"
+         id="path3411"
+         sodipodi:cx="457"
+         sodipodi:cy="251.5"
+         sodipodi:rx="10.75"
+         sodipodi:ry="10.75"
+         d="m 467.75,251.5 c 0,5.93706 -4.81294,10.75 -10.75,10.75 -5.93706,0 -10.75,-4.81294 -10.75,-10.75 0,-5.93706 4.81294,-10.75 10.75,-10.75 5.93706,0 10.75,4.81294 10.75,10.75 z"
+         transform="matrix(0.2685,0,0,0.2685,-118.4,382.8)"
+         mask="url(#mask4118-3)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         transform="matrix(0.2685,0,0,0.2685,-99.49,255)"
+         style="fill:none;stroke:url(#radialGradient4212);stroke-width:3.7244;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4813-9)"
+         d="m 162.2,719.1 223.5,0 c 5.5,0 10,4.5 10,10 l 0,45 c 0,5.5 -4.5,10 -10,10 l -217,-0.1 c -5.5,0 -14.8,-4.9 -15,-10.4 l -1.5,-44.5 c -0.2,-5.5 4.5,-10 10,-10 z"
+         id="path3413"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         inkscape:export-ydpi="90.17"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         sodipodi:nodetypes="cscccc"
+         inkscape:connector-curvature="0"
+         id="path3415"
+         d="m 0.3085,426 c 1.6005,0.7 2.1005,1.4 2.4005,3 l 4.6,20.9 c 0,5 -13,4.2 -12.5,0 l 3.5,-20.9 c 0.6,-2.6 -0.5,-2.8 1.9995,-3 z"
+         style="fill:url(#linearGradient4214);fill-opacity:1;stroke:none" />
+      <path
+         style="fill:none;stroke:url(#radialGradient4216);stroke-width:7.0931;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4809-6)"
+         d="m 159.4,720 c 2,-3 11.9,-68.2 13.2,-70.2 2.9,-4.4 5.5,-4.4 5.5,-4.4"
+         id="path3417"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         transform="matrix(0.2685,0,0,0.2961,-100.9,235.3)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path3419"
+         d="m 160.5,719 230,0 c 5.5,0 10,4.5 10,10 l 0,45 c 0,5.5 -4.5,10 -10,10 l -220.2,0 c -5.5,0 -8.8,-4.6 -10,-10 l -9.8,-45 c -1.2,-5.4 4.5,-10 10,-10 z"
+         style="fill:none;stroke:url(#radialGradient4218);stroke-width:3.7244;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4144-8)"
+         transform="matrix(-0.2685,0,0,0.2685,47.06,255)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         sodipodi:nodetypes="ssccsssss"
+         inkscape:connector-curvature="0"
+         id="path3421"
+         d="m -53.09,453.2 53.5985,0 c 0.6005,0 1.6005,0.5 1.4005,1.1 0.3,1.8 0.5,3.9 0.9,7.8 0,0.6 -0.8,1.1 -1.4,1.1 l -55.499,0 c -0.6,0 -1.2,-0.5 -1.1,-1.1 l 1,-7.8 c 0.1,-0.6 0.5,-1.1 1.1,-1.1 z"
+         style="fill:url(#linearGradient4220);fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         style="fill:url(#radialGradient4222);fill-opacity:1;stroke:none"
+         d="m -53.09,453.2 54.499,0 c 0.6,0 0.7,0.5 0.5,1.1 0.5,3.4 0.5,3.9 0.9,7.8 0,0.6 -0.8,1.1 -1.4,1.1 l -55.499,0 c -0.6,0 -1.2,-0.5 -1.1,-1.1 l 1,-7.8 c 0.1,-0.6 0.5,-1.1 1.1,-1.1 z"
+         id="path3423"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccsssss"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <path
+         style="opacity:0.9314;fill:url(#linearGradient4224);fill-opacity:1;stroke:url(#radialGradient4226);stroke-width:1.0217;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -53.59,461.3 54.699,0 c 0.6,0 1.2,1.4 1.2,1.6 l -2.8005,5.3 0,6 c 0,0.6 -0.5,1.1 -1.1995,1.1 l -51.899,0 c -0.6,0 -1.1,-0.5 -1.1,-1.1 l 0,-11.8 c 0,-0.6 0.5,-1.1 1.1,-1.1 z"
+         id="path3425"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccssssss"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3427"
+         width="1"
+         height="4"
+         x="-49.19"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:url(#linearGradient4228);fill-opacity:1;stroke:none"
+         id="rect3429"
+         width="49.67"
+         height="1.342"
+         x="-51.09"
+         y="466.3"
+         rx="0"
+         ry="0"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         inkscape:tile-y0="-155"
+         inkscape:tile-x0="40"
+         y="467.8"
+         x="-46.19"
+         height="3.999"
+         width="1"
+         id="rect3431"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         inkscape:tile-y0="-155"
+         inkscape:tile-x0="40"
+         y="467.8"
+         x="40.19"
+         height="3.999"
+         width="1"
+         id="rect3433"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         transform="scale(-1,1)"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3435"
+         width="1"
+         height="4"
+         x="42.19"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3437"
+         width="1"
+         height="4"
+         x="-38.19"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3439"
+         width="1"
+         height="4"
+         x="30.19"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3441"
+         width="1"
+         height="4"
+         x="10.19"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3443"
+         width="1"
+         height="4"
+         x="-6.191"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3445"
+         width="1"
+         height="4"
+         x="0.1915"
+         y="460.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3447"
+         width="1"
+         height="4"
+         x="-9.091"
+         y="467.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#cecece;fill-opacity:1;stroke:none"
+         id="rect3449"
+         width="1"
+         height="4"
+         x="3.191"
+         y="467.8"
+         inkscape:tile-x0="40"
+         inkscape:tile-y0="-155"
+         inkscape:export-filename="/home/sibrand/Documents/Arista/icon-arista-3.png"
+         inkscape:export-xdpi="90.17"
+         inkscape:export-ydpi="90.17" />
+    </g>
+  </g>
+</svg>

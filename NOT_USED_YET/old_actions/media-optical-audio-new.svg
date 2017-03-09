@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3529"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-optical-audio-new.svg">
+  <defs
+     id="defs3531" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.1159424"
+     inkscape:cx="29.911332"
+     inkscape:cy="29.804313"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1360"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="8.9999928,38.999997"
+       orientation="30,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="8.9999928,8.9999974"
+       orientation="0,30"
+       id="guide3266" />
+    <sodipodi:guide
+       position="38.999993,8.9999974"
+       orientation="-30,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="38.999993,38.999997"
+       orientation="0,-30"
+       id="guide3270" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-453.14286,-628.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3296"
+       sodipodi:cx="477.14148"
+       sodipodi:cy="639.36218"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 479.14287,639.36218 c 0,1.10461 -0.89606,2.00006 -2.00139,2.00006 -1.10534,0 -2.00139,-0.89545 -2.00139,-2.00006 0,-1.1046 0.89605,-2.00006 2.00139,-2.00006 1.10533,0 2.00139,0.89546 2.00139,2.00006 z" />
+    <path
+       d="m 492.14287,652.36218 c 0,1.10461 -0.89606,2.00006 -2.00139,2.00006 -1.10534,0 -2.00139,-0.89545 -2.00139,-2.00006 0,-1.1046 0.89605,-2.00006 2.00139,-2.00006 1.10533,0 2.00139,0.89546 2.00139,2.00006 z"
+       sodipodi:ry="2.0000615"
+       sodipodi:rx="2.0013857"
+       sodipodi:cy="652.36218"
+       sodipodi:cx="490.14148"
+       id="path3298"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       transform="matrix(0.85354267,0,0,0.82992131,-93.200387,283.75185)"
+       id="layer1-9"
+       inkscape:label="Capa 1"
+       style="fill:#ffffff">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(1.1042038,0,0,1.1319956,650.68071,426.02361)"
+         id="g3063">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="icomoon-ignore" />
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 10,6 32,0 v 23 c 0,2.761 -3.134,5 -7,5 -3.866,0 -7,-2.239 -7,-5 0,-2.761 3.134,-5 7,-5 1.074,0 2.091,0.173 3,0.481 v -10.3 l -14,3.818 v 15 c 0,2.761 -3.134,5 -7,5 -3.866,0 -7,-2.239 -7,-5 0,-2.761 3.134,-5 7,-5 1.074,0 2.091,0.173 3,0.481 V 5.999 z"
+           id="path3055" />
+      </g>
+      <g
+         transform="translate(364.32972,507.0175)"
+         id="layer2-2"
+         inkscape:label="Capa 2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

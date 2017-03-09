@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M45.00 100L10.00 82.5L45.00 65L80.00 82.5z"/>
+	</g>
+	<g id="Right Safe Leg" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M74.30 74.7L74.10 73L73.00 71.7L71.20 71.4L80.00 67L80.00 72.3z"/>
+	</g>
+	<g id="Left Safe Leg" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M10.00 72.3L10.00 67L18.30 71.15L15.80 72L14.80 73.2L14.40 74.9z"/>
+	</g>
+	<g id="Main Body of Safe" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M10.00 67L10.00 27.5L45.00 10L80.00 27.5L80.00 67L71.20 71.4L51.60 81.2L45.00 84.5L36.30 80.15L18.30 71.15z"/>
+	</g>
+	<g id="Path_4" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 45L10.00 27.5"/>
+	</g>
+	<g id="Path_5" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 45L80.00 27.5"/>
+	</g>
+	<g id="Middle Safe Leg" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M39.40 87.2L39.40 85.6L38.40 83.2L36.30 80.15L45.00 84.5L51.60 81.2L50.30 83L49.40 85L49.30 87.4L45.00 90z"/>
+	</g>
+	<g id="Safe Outlines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 90L45.00 70"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 50L45.00 45"/>
+	</g>
+	<g id="Path_9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M80.00 67L80.00 72.3L74.30 74.7L74.10 73L73.00 71.7L71.20 71.4L71.20 71.4L51.60 81.2L50.30 83L49.40 85L49.30 87.4L45.00 90L39.40 87.2L39.40 85.6L38.40 83.2L36.30 80.15L18.30 71.15L15.80 72L14.80 73.2L14.40 74.9L10.00 72.3L10.00 67L10.00 27.5L45.00 10L80.00 27.5z"/>
+	</g>
+	<g id="Door Handle - Closed" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.70 57.5L51.80 56.3L53.20 55.4L55.30 56.9L55.30 65.5L54.90 66.9L53.40 67.4L52.50 66L52.50 58.5L51.70 57.7"/>
+	</g>
+	<g id="Combination Lock" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.00 57.2L66.30 59.2L64.40 60.1L62.00 59.8L59.80 57.8L59.00 55.3L59.70 52.3L61.50 50.2L64.00 49.1L66.80 49.7L68.70 52.2L69.00 54.7L68.00 57.1"/>
+	</g>
+	<g id="Path_2" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M68.00 57.2L66.20 58.6L64.10 58.4L62.80 56.7L62.70 54.7L64.00 52.5L66.70 52.2L68.20 53.9L68.00 56.6"/>
+	</g>
+	<g id="Door Frame Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 74L50.00 49.7L74.00 37.7L74.00 62z"/>
+	</g>
+	<g id="a" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.50 56.5L24.10 58.6L21.50 57.4L20.00 55.1L20.00 51.2L21.70 49.8L25.30 51.4L26.50 53.3"/>
+	</g>
+	<g id="Path_1" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M28.00 60.4L26.50 59.6L26.50 53.4L26.30 49.7L25.10 47L22.60 45.7L20.60 46.4"/>
+	</g>
+	<g id="r" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M31.00 61.5L31.00 48.5"/>
+	</g>
+	<g id="Path_3" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M31.00 54.7L32.70 52.2L34.90 51.6L37.00 52.6"/>
+	</g>
+</g>
+</svg>

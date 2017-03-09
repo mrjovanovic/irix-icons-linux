@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="18mm" height="21mm" id="svg2">
+	<g fill="none" stroke="black" stroke-width="1mm" stroke-linecap="square">
+		<circle cx="34" cy="37.2" r="25.3"/>
+		<line x1="27.5" y1="37.2" x2="1.8" y2="37.2"/>
+		<line x1="27.5" y1="22.3" x2="27.5" y2="52.1" stroke-width="2mm" stroke-linecap="butt"/>
+		<path d="M 27.8 46.3 L 48.5 58.5 L 48.5 72.6"/>
+		<path d="M 27.8 28.1 L 48.5 15.9 L 48.5 1.8"/>
+		<path d="M 45.6 56.8 L 36.1 56.1 L 38.3 52.4 L 40.5 48.8 L 45.6 56.8 z" stroke="none" fill="black"/>
+	</g>
+</svg>

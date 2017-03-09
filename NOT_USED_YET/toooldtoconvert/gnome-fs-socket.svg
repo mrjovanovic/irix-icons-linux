@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow " style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M50.00 100L10.00 80L50.00 60L90.00 80z"/>
+	</g>
+	<g id="Icon Split into 3 Polys" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 90L18.00 74L16.00 72L14.00 71L11.50 68L10.50 66L10.00 64L10.00 60L23.00 53.5L23.00 57.5L24.00 59.5L25.00 61.5L27.00 64.25L30.00 66L31.00 66.5L32.00 67L51.00 76.5z"/>
+	</g>
+	<g id="Path_2" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M51.00 76.5L64.00 70L90.00 70L50.00 90z"/>
+	</g>
+	<g id="Path_3" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M64.00 70L45.00 60.5L42.00 58.5L41.00 57.5L39.00 54.5L38.00 53.5L37.00 50.5L37.00 46.5L50.00 40L50.00 44L51.00 47L52.00 48L54.00 51L55.00 52L58.00 54L90.00 70z"/>
+	</g>
+	<g id="Icon Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 90L18.00 74L16.00 72L14.00 71L11.50 68L10.50 66L10.00 64L10.00 60L23.00 53.5L23.00 57.5L24.00 59.5L25.00 61.5L27.00 64.25L30.00 66L31.00 66.5L32.00 67L51.00 76.5L64.00 70L45.00 60.5L42.00 58.5L41.00 57.5L39.00 54.5L38.00 53.5L37.00 50.5L37.00 46.5L50.00 40L50.00 44L51.00 47L52.00 48L54.00 51L55.00 52L58.00 54L90.00 70z"/>
+	</g>
+</g>
+</svg>

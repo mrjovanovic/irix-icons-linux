@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Ribbon Cable Behind Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#a8a8a8;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M48.60 31.7L42.80 35.1L42.30 26.6L44.70 24.1L45.80 24L46.70 24.4L48.60 25.9z"/>
+	</g>
+	<g id="Top of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#7c007c;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M71.00 32.5L47.00 19.5L58.00 14L82.00 27z"/>
+	</g>
+	<g id="Front of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#7c007c;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M71.00 32.5L82.00 27L82.00 65L71.00 70.5z"/>
+	</g>
+	<g id="Side of Host Box" style="fill-rule:none;clip-rule:nonzero;fill:#7c007c;stroke:#000000;stroke-miterlimit:4;">
+		<path d="M71.00 32.5L71.00 70.5L47.00 58L47.00 19.5z"/>
+	</g>
+	<g id="Door Lines" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M82.00 29L73.00 34"/>
+	</g>
+	<g id="Path_5" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M82.00 37L73.00 42"/>
+	</g>
+	<g id="Bottom Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:#7c7e7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 72L25.00 64.5L24.00 63L25.00 61.5L47.00 50.5L47.00 57L60.00 63.5z"/>
+	</g>
+	<g id="Lines on Bottom Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 69.5L32.00 63"/>
+	</g>
+	<g id="Path_8" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 67L37.00 60.5"/>
+	</g>
+	<g id="Path_9" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M55.00 64.5L42.00 58"/>
+	</g>
+	<g id="Middle Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:#7c7e7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 58L25.00 50.5L24.00 49L25.00 47.5L47.00 36.5L47.00 43L60.00 49.5z"/>
+	</g>
+	<g id="Lines on Middle Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 55.5L32.00 49"/>
+	</g>
+	<g id="Path_12" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 53L37.00 46.5"/>
+	</g>
+	<g id="Path_13" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M55.00 50.5L42.00 44"/>
+	</g>
+	<g id="Top Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:#7c7e7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M40.00 44L24.00 36.5L25.00 35L24.00 33.5L47.00 22.5L47.00 29L60.00 35.5z"/>
+	</g>
+	<g id="Lines on Top Ribbon Cable" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M45.00 41.5L32.00 35"/>
+	</g>
+	<g id="Path_16" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M50.00 39L37.00 32.5"/>
+	</g>
+	<g id="Path_17" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M55.00 36.5L42.00 30"/>
+	</g>
+	<g id="Bottom Connector Side" style="fill-rule:none;clip-rule:nonzero;fill:#f8fc7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M48.10 77.8L43.60 75.5L42.80 75L42.30 74.4L40.60 70.9L40.20 69.7L40.40 68.5L41.20 67.5L42.00 67.1L56.60 59.5L58.50 59.3L63.90 62.1z"/>
+	</g>
+	<g id="Middle Connector Side" style="fill-rule:none;clip-rule:nonzero;fill:#f8fc7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M48.00 64.1L43.30 61.8L42.30 60.9L41.80 60L40.30 56.7L40.10 55.8L40.20 54.8L40.80 54L41.70 53.5L56.60 45.8L58.50 45.4L63.80 48.4z"/>
+	</g>
+	<g id="Top Connector Side" style="fill-rule:none;clip-rule:nonzero;fill:#f8fc7c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.80 50.6L43.60 48.5L42.60 47.8L42.10 47L40.60 43.4L40.10 42.2L40.30 41.1L40.90 40.4L41.90 39.7L56.70 32L57.60 31.9L58.30 32L59.00 32.3L63.90 34.8z"/>
+	</g>
+	<g id="Bottom Connector Face" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M48.20 77.7L47.30 77.3L46.90 76.6L45.70 73.9L45.20 73.1L45.30 72L45.70 71.1L46.30 70.4L47.10 69.9L61.60 62.4L63.00 62L64.00 62.1L64.60 62.9L64.90 64L64.70 65L63.60 68.6L63.10 69.9L62.50 70.7L61.80 71.3L60.80 71.9L50.10 77.4L48.90 77.9z"/>
+	</g>
+	<g id="Middle Connector Face" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M48.00 64L47.20 63.7L46.70 62.9L45.60 60.4L45.20 59.5L45.20 58.5L45.60 57.6L46.10 56.8L47.00 56.3L61.70 48.7L62.80 48.4L63.80 48.4L64.60 49L64.80 50L64.90 51.2L63.60 54.7L63.10 55.9L62.50 56.9L61.80 57.4L60.90 58.3L50.20 63.8L48.90 64.1z"/>
+	</g>
+	<g id="Top Connector Face" style="fill-rule:none;clip-rule:nonzero;fill:#000000;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M47.70 50.6L47.10 50.1L46.70 49.4L45.70 47L45.20 45.9L45.30 44.9L45.70 43.8L46.40 43L47.10 42.6L61.60 35.1L62.70 34.7L63.90 34.8L64.60 35.5L64.90 36.6L64.80 37.8L63.70 41.1L63.20 42.5L62.60 43.2L61.80 44L60.80 44.5L50.20 50.1L48.80 50.5z"/>
+	</g>
+	<g id="Top Connector Holes" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M47.50 45L48.00 44.5L48.50 45L48.00 45.5z"/>
+	</g>
+	<g id="Path_25" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M51.00 43L51.50 43.5L52.00 43L51.50 42.5z"/>
+	</g>
+	<g id="Path_26" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M54.50 41.2L55.00 40.7L55.50 41.2L55.00 41.7z"/>
+	</g>
+	<g id="Path_27" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M58.00 39.5L58.50 39L59.00 39.5L58.50 40z"/>
+	</g>
+	<g id="Path_28" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M61.50 37.5L62.00 37L62.50 37.5L62.00 38z"/>
+	</g>
+	<g id="Path_29" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M60.00 41.5L60.50 41L61.00 41.5L60.50 42z"/>
+	</g>
+	<g id="Path_30" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M56.50 43.5L57.00 43L57.50 43.5L57.00 44z"/>
+	</g>
+	<g id="Path_31" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M53.00 45.5L53.50 45L54.00 45.5L53.50 46z"/>
+	</g>
+	<g id="Path_32" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M49.00 47.5L49.50 47L50.00 47.5L49.50 48z"/>
+	</g>
+	<g id="Middle Connector Holes" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M47.50 58.5L48.00 58L48.50 58.5L48.00 59z"/>
+	</g>
+	<g id="Path_34" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M51.00 56.7L51.50 56.2L52.00 56.7L51.50 57.2z"/>
+	</g>
+	<g id="Path_35" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M54.50 54.8L55.00 54.3L55.50 54.8L55.00 55.3z"/>
+	</g>
+	<g id="Path_36" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M58.00 53L58.50 52.5L59.00 53L58.50 53.5z"/>
+	</g>
+	<g id="Path_37" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M61.50 51.2L62.00 50.7L62.50 51.2L62.00 51.7z"/>
+	</g>
+	<g id="Path_38" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M59.80 55.3L60.30 54.8L60.80 55.3L60.30 55.8z"/>
+	</g>
+	<g id="Path_39" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M56.30 57.2L56.80 56.7L57.30 57.2L56.80 57.7z"/>
+	</g>
+	<g id="Path_40" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M52.80 59L53.30 58.5L53.80 59L53.30 59.5z"/>
+	</g>
+	<g id="Path_41" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M49.20 61L49.70 60.5L50.20 61L49.70 61.5z"/>
+	</g>
+	<g id="Bottom Connector Holes" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M47.30 72.3L47.80 71.8L48.30 72.3L47.80 72.8z"/>
+	</g>
+	<g id="Path_43" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M51.00 70.5L51.50 70L52.00 70.5L51.50 71z"/>
+	</g>
+	<g id="Path_44" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M54.50 68.8L55.00 68.3L55.50 68.8L55.00 69.3z"/>
+	</g>
+	<g id="Path_45" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M58.00 66.7L58.50 66.2L59.00 66.7L58.50 67.2z"/>
+	</g>
+	<g id="Path_46" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M61.50 65L62.00 64.5L62.50 65L62.00 65.5z"/>
+	</g>
+	<g id="Path_47" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M59.80 69.2L60.30 68.7L60.80 69.2L60.30 69.7z"/>
+	</g>
+	<g id="Path_48" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M56.50 71L57.00 70.5L57.50 71L57.00 71.5z"/>
+	</g>
+	<g id="Path_49" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M53.00 72.7L53.50 72.2L54.00 72.7L53.50 73.2z"/>
+	</g>
+	<g id="Path_50" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M49.20 74.7L49.70 74.2L50.20 74.7L49.70 75.2z"/>
+	</g>
+</g>
+</svg>

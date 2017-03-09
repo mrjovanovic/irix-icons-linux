@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Icon Shadow" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M38.83 99.78L22.00 90.88L60.55 71.22L77.82 79.8z"/>
+	</g>
+	<g id="Paper Sheet 1" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M22.00 80.13L22.00 20.5L60.01 1.06999999999999L60.01 60.8z"/>
+	</g>
+	<g id="Paper Sheet 2" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M30.69 84.47L30.69 25.17L68.70 5.41L68.70 65.03z"/>
+	</g>
+	<g id="Third Sheet of Paper -- Closed" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M39.59 88.49L39.59 29.52L77.39 10.08L77.39 69.16z"/>
+	</g>
+	<g id="Path_26" style="fill-rule:none;clip-rule:nonzero;fill:#c0c41c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M1.89 75.6L24.31 75.6L24.40 92.4L20.88 98.07L5.45 98.07L1.80 93z"/>
+	</g>
+	<g id="Path_27" style="fill-rule:none;clip-rule:nonzero;fill:#c0c41c;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M24.31 75.6L21.23 75.6L21.23 67.48L18.45 62.8L15.25 61.87L10.80 61.87L6.69 62.8L5.10 67.37L5.10 75.6L1.89 75.6L1.89 67.48L2.31 63.15L4.12 60.26L9.61 58.6L15.80 58.6L21.17 60.11L23.46 63.08L24.31 67.48z"/>
+	</g>
+	<g id="Path_28" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M5.10 75.6L21.23 75.6L21.23 67.48L20.84 64.94L19.16 62.66L15.25 61.87L10.80 61.87L6.69 62.8L5.34 64.72L5.10 67.37z"/>
+	</g>
+	<g id="Path_29" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M11.21 81.29L16.19 81.25L16.19 90.96L11.20 90.91z"/>
+	</g>
+</g>
+</svg>

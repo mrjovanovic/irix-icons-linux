@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+	"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="50pt" height="50pt" viewBox="0 0 50 50" xml:space="preserve">
+<g transform="scale(0.5)">
+	<g id="Shadow Always Same Closed or Open" style="fill-rule:nonzero;clip-rule:nonzero;fill:#C0C0C0;stroke:none;stroke-miterlimit:4;fill-opacity:50%;">
+		<path d="M26.37 100L15.00 94.31L71.86 65.89L83.23 71.57z"/>
+	</g>
+	<g id="Folder Back Polygon 1" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.14 86.13L17.27 84.19L17.27 36.78L26.83 31.77L45.25 22.33L73.22 8.34999999999999L73.22 55.99L76.97 58.15z"/>
+	</g>
+	<g id="Folder Back Polygon 2 -- Tab on Top" style="fill-rule:nonzero;clip-rule:nonzero;fill:#FFFFFF;stroke:none;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M26.83 31.77L28.42 27L43.66 18.24L45.25 22.33z"/>
+	</g>
+	<g id="Folder Back Outline" style="fill-rule:none;clip-rule:nonzero;fill:none;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.14 86.13L17.27 84.19L17.27 36.78L26.83 31.77L28.42 27L28.42 27L43.66 18.24L45.25 22.33L73.22 8.34999999999999L73.22 55.99L76.97 58.15"/>
+	</g>
+	<g id="Folder Front Outline	" style="fill-rule:none;clip-rule:nonzero;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:4;fill-opacity:100%;">
+		<path d="M21.14 86.13L21.14 39.5L29.44 35.18L31.49 38.94L47.07 31.2L47.64 26.09L76.97 11.53L76.97 58.15z"/>
+	</g>
+</g>
+</svg>
