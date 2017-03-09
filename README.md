@@ -1,10 +1,11 @@
 # irix-icons-linux
 
-An iconset similar in look to the icons found in SGI IRIX os. Looking for someone to help me fix this up completely.
+An iconset similar in look to the icons found in SGI IRIX os. Fits very well with retro themes.
+
+Looking for someone to help me fix this up. Needs a massive cleanup. Also, this set might be violating some licensing (i hope it doesn't, but i don't think i can trace back all the sources of the files used here, as i last worked on this in 2016 Jan.).
 
 This is my try at creating a full irix-like iconset, firstly fixing up the nonworking irix icon set uploaded to gnome-look.org by ANDERMETALSH, and secondly adding my own icon design. Will be cleaning it up and creating new icons as soon as i find some free time. The goal is to have a full iconset to go with retro motif-like themes.
 
-Needs a massive cleanup. Also, this set might be violating some licensing (i hope it doesn't, but i don't think i can trace back all the sources of the files used here, as i last worked on this in 2016 Jan.).
 
 Screenshots: <br>
 http://i.imgur.com/PAPpnm9.jpg <br>
